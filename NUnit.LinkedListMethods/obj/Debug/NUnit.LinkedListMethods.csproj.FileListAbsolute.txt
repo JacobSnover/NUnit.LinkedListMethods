@@ -1,0 +1,11 @@
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\obj\Debug\NUnit.LinkedListMethods.csprojAssemblyReference.cache
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\obj\Debug\NUnit.LinkedListMethods.csproj.CoreCompileInputs.cache
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\bin\Debug\NUnit.LinkedListMethods.dll
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\bin\Debug\NUnit.LinkedListMethods.pdb
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\bin\Debug\nunit.framework.dll
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\bin\Debug\TestShaKyList.dll
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\bin\Debug\nunit.framework.xml
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\bin\Debug\TestShaKyList.pdb
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\obj\Debug\NUnit.LinkedListMethods.csproj.CopyComplete
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\obj\Debug\NUnit.LinkedListMethods.dll
+C:\Users\ShaKy\Source\Repos\NUnit.LinkedListMethods\NUnit.LinkedListMethods\obj\Debug\NUnit.LinkedListMethods.pdb
